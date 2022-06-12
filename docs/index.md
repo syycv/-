@@ -47,3 +47,9 @@ Lumion 渲染   https://b23.tv/VwRDYj
 ---
 
 2014.09 ~2018.06         上海外国语大学              本科        日语专业
+
+<style lang="css">
+    section {
+        width: 600px;
+    }
+</style>
