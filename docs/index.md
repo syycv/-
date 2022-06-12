@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+### 宋莹莹
 
-You can use the [editor on GitHub](https://github.com/syycv/syycv.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+133 0862 0903       [252438922@qq.com](mailto:252438922@qq.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+女，未婚，上海，工作经验 4 年+，内容运营/短视频拍摄与剪辑，丰富的**食品**、**家居**行业运营经验。
 
-### Markdown
+### 近期作品
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lumion 渲染   https://b23.tv/VwRDYj
 
-```markdown
-Syntax highlighted code block
+倾斜摄影 https://zthdbim.cn/3D/HZX_CN/App/index.html
 
-# Header 1
-## Header 2
-### Header 3
+### 职场回顾
 
-- Bulleted
-- List
+2021.09 ~ 2022.06           **钟薛高**食品(上海)有限公司                   线上事业中心          淘内内容运营
 
-1. Numbered
-2. List
+1、土建、机电专业建模，包括 Revit 主体模型、Rhino 幕墙模型、Tekla 钢结构模型。
 
-**Bold** and _Italic_ and `Code` text
+2、独立负责项目，满足施工现场 BIM 需求，完成合同履约。
 
-[Link](url) and ![Image](src)
-```
+3、数据分析，借助 生意参谋及Excel 透视表。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- 竞品分析。根据商品种类、客单价、购买人群等明确目标竞品，观察周、月周期对比曲线，师夷长技。
+  
+- 短视频公域数据统计与分析。对比
+  
 
-### Jekyll Themes
+2020.12~ 2021.08            上海海迎贸易有限公司                        电商事业部             淘内内容运营
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/syycv/syycv.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1、土建、机电专业建模，包括 Revit 主体模型、Rhino 幕墙模型、Tekla 钢结构模型。
 
-### Support or Contact
+2、独立负责项目，满足施工现场 BIM 需求，完成合同履约。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+3、倾斜摄影。
+
+4、数据分析。短视频公域数据的统计与分析、。
+
+1.   内容方案策划——分析并借鉴在内容方面处于行业领先地位店铺的内容策划方案，根据生意参谋的数据反馈，不断调整出适合自身店铺的内容策划方案（图文、买家秀、达人等）。
+
+2.   盖楼、征集买家秀
+
+2020.12~ 2021.08            一元堂中医门诊部责任有限公司            策划部                   新媒体运营
+
+结合互联网时下热词，从标题、广告语、产品特征等方面入手，为主推产品编写**引流文**——曾在2019年“双11”前后完成微信渠道30w的销售目标。
+
+2018.04~ 2021.05              武昌区珞珈山社区                             党建办                   新媒体运营武昌区珞珈山社区及武汉大学的新闻**采编**与微信公众号“武昌珞珈”的**运营**（新闻稿的撰写与排版），曾参访武昌区人大代表潘迎春。
+
+---
+
+2014.09 ~2018.06         上海外国语大学              本科        日语专业
